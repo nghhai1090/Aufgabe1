@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.example.demo","l":"DemoApplication"},{"p":"model","l":"FizzBuzz"},{"p":"controller","l":"FizzBuzzControler"},{"p":"controller","l":"FizzBuzzErrorController"},{"p":"service","l":"FizzBuzzService"}];updateSearchResults();
